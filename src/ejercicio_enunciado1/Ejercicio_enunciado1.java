@@ -8,7 +8,7 @@ public class Ejercicio_enunciado1 {
         if (ht<=40){
             St=ht*Sh;
         }else if (ht > 40 && ht <= 48){
-            St=(40*Sh)+((ht-40)*(2*Sh));
+            St=(40*Sh)+((ht-40)*(2*Sh)); // camilo es gay
         } else {
             St=(40*Sh)+(8*(2*Sh))+((ht-48)*(3*Sh));
         }
